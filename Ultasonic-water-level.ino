@@ -1,4 +1,3 @@
-
 #include <LiquidCrystal.h>  
 LiquidCrystal lcd(9, 12, 6, 4, 3, 11);  
 void (* resetFunc) (void)=0;
